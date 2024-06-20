@@ -1,6 +1,6 @@
 # Task-Management-Application
 
-![Task Management Application Preview](path_to_your_image.png)
+![Task Management Application Preview]([path_to_your_image.png](https://drive.google.com/file/d/1t2fu-fsomu3A5afkzaiLkIUU2tkG1vdv/view?usp=sharing))
 
 Task Management Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can perform basic CRUD operations (Create, Read, Update, Delete) for managing their tasks with deadlines.
 
