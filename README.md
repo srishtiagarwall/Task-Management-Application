@@ -89,3 +89,5 @@ Ensure your MongoDB database is running. Update the MongoDB connection URL in `s
 ## Author
 
 Srishti Agarwal
+
+agarwal11srishti@gmail.com
