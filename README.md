@@ -47,21 +47,21 @@ Task Management Application/
    cd backend
 
 2. Install dependencies.
-       npm install
+       `npm install`
 
 3. Start the backend server.
-       npm start
+       `npm start`
 
 ## Frontend Setup
 
 1. Navigate to the frontend directory.
-       cd frontend
+       `cd frontend`
 
 2. Install dependencies.
-       npm install
+      npm install`
 
 3. Start the React development server.
-       npm start
+      `npm start`
 
 ## Database Configuration
 
